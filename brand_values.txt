@@ -1,0 +1,79 @@
+World's most valuable brands from 2000 to 2018
+Value ($ million)
+
+75
+2000-01-01,adidas,Germany,3791,Sporting Goods
+2000-01-01,Amazon,United States,4528,Retail
+2000-01-01,American Express,United States,16122,Financial Services
+2000-01-01,AOL,United States,4531,Media
+2000-01-01,Apple,United States,6594,Technology
+2000-01-01,Armani,Italy,1456,Luxury
+2000-01-01,AT&T,United States,25548,Telecommunications
+2000-01-01,Bacardi,Bermuda,3187,Alcohol
+2000-01-01,Barbie,United States,2315,Toys & Games
+2000-01-01,Benetton,Italy,1008,Apparel
+2000-01-01,BMW,Germany,12969,Automotive
+2000-01-01,BP,United Kingdom,3066,Energy
+2000-01-01,Budweiser,United States,10684,Alcohol
+2000-01-01,Burger King,United States,2701,Restaurants
+2000-01-01,Chanel,France,4141,Luxury
+2000-01-01,Cisco,United States,20067,Technology
+2000-01-01,Citi,United States,18809,Financial Services
+2000-01-01,Coca-Cola,United States,72537,Beverages
+2000-01-01,Colgate,United States,4417,Fast-Moving Consumer Goods
+2000-01-01,Compaq,United States,14602,Technology
+2000-01-01,Dell,United States,9476,Technology
+2000-01-01,Disney,United States,33553,Media
+2000-01-01,Duracell,United States,5885,Fast-Moving Consumer Goods
+2000-01-01,Ericsson,Sweden,7805,Electronics
+2000-01-01,Financial Times,United Kingdom,1148,Media
+2000-01-01,Ford,United States,36368,Automotive
+2000-01-01,Gap,United States,9316,Apparel
+2000-01-01,GE,United States,38127,Diversified
+2000-01-01,Gillette,United States,17358,Fast-Moving Consumer Goods
+2000-01-01,Gucci,Italy,5149,Luxury
+2000-01-01,Guinness,Ireland,1224,Alcohol
+2000-01-01,Heineken,Netherlands,2218,Alcohol
+2000-01-01,Heinz,United States,11742,Fast-Moving Consumer Goods
+2000-01-01,Hertz,United States,3438,Automotive
+2000-01-01,Hilton,United States,1483,Hospitality
+2000-01-01,Honda,Japan,15244,Automotive
+2000-01-01,HP,United States,20572,Technology
+2000-01-01,IBM,United States,53183,Business Services
+2000-01-01,IKEA,Sweden,6031,Retail
+2000-01-01,Intel,United States,39048,Technology
+2000-01-01,Jack Daniel’s,United States,1480,Alcohol
+2000-01-01,Johnnie Walker,United Kingdom,1541,Alcohol
+2000-01-01,Kellogg’s,United States,7357,Fast-Moving Consumer Goods
+2000-01-01,Kleenex,United States,5144,Fast-Moving Consumer Goods
+2000-01-01,Kodak,United States,11822,Electronics
+2000-01-01,Louis Vuitton,France,6887,Luxury
+2000-01-01,Marlboro,United States,22110,Tobacco
+2000-01-01,McDonald’s,United States,27859,Restaurants
+2000-01-01,Mercedes-Benz,Germany,21104,Automotive
+2000-01-01,Microsoft,United States,70196,Technology
+2000-01-01,Motorola,United States,4445,Electronics
+2000-01-01,Moët & Chandon,France,2799,Alcohol
+2000-01-01,MTV,United States,6411,Media
+2000-01-01,NESCAFÉ,Switzerland,13680,Beverages
+2000-01-01,Nike,United States,8015,Sporting Goods
+2000-01-01,Nokia,Finland,38528,Technology
+2000-01-01,Pampers,United States,1400,Fast-Moving Consumer Goods
+2000-01-01,Panasonic,Japan,3734,Electronics
+2000-01-01,Pepsi,United States,6636,Beverages
+2000-01-01,Philips,Netherlands,5481,Electronics
+2000-01-01,Ralph Lauren,United States,1834,Apparel
+2000-01-01,Reuters,United Kingdom,4876,Media
+2000-01-01,Rolex,Switzerland,3561,Luxury
+2000-01-01,Samsung,South Korea,5223,Technology
+2000-01-01,SAP,Germany,6135,Technology
+2000-01-01,Shell,Netherlands,2786,Energy
+2000-01-01,Smirnoff,United Kingdom,2443,Alcohol
+2000-01-01,Sony,Japan,16409,Electronics
+2000-01-01,Starbucks,United States,1329,Restaurants
+2000-01-01,Toyota,Japan,18823,Automotive
+2000-01-01,Volkswagen,Germany,7834,Automotive
+2000-01-01,Wall Street Journal,United States,2184,Media
+2000-01-01,Wrigley,United States,4324,Fast-Moving Consumer Goods
+2000-01-01,Xerox,United States,9699,Business Services
+2000-01-01,Yahoo!,United States,6299,Media
